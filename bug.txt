@@ -1,1 +1,2 @@
 Aquí un bug
+Propongo cambios en el bug
